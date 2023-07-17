@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+<<<<<<< HEAD
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +12,27 @@
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
+=======
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+>>>>>>> a7e2b7cb73f270a68331cda0fa7639970b0e48ab
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.1",
     "mongoose": "^7.3.4"
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+>>>>>>> a7e2b7cb73f270a68331cda0fa7639970b0e48ab
   }
 }
