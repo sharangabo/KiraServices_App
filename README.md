@@ -7,7 +7,7 @@ ALU Foundations Project<br>
   <li>Fabrice NKURUNZIZA</li>
   <li>Ardine NUKURI</li>
   <li>TUYISENGE Jacqueline</li>
-  <li>Eduard SHARANGABO</li>
+  <li>Edouard SHARANGABO</li>
   <li>Micah Buldo</li>
 </ul>
 
